@@ -1,0 +1,16 @@
+/*
+Theme Name:     Twenty Twelve Child
+Theme URI:      http: //example.com/
+Description:    Child theme for the Twenty Twelve theme 
+Author:         Zac
+Author URI:     http: //example.com/about/
+Template:       twentytwelve
+Version:        0.1.0
+*/
+
+@import url("../twentytwelve/style.css");
+
+@media screen and (min-width: 960px) {
+	body {
+		background-color: black;
+	}
