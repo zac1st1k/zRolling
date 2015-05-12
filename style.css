@@ -14,3 +14,7 @@ Version:        0.1.0
 	body {
 		background-color: black;
 	}
+
+	#recent-posts-2 ul {
+   		overflow: hidden;
+	}
